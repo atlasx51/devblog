@@ -1,0 +1,14 @@
+{
+    "emmet.excludeLanguages": [
+
+
+
+      
+    ],
+    "emmet.preferences": {
+
+    
+    },
+    "emmet.triggerExpansionOnTab": true,
+    "emmet.showSuggestionsAsSnippets": true
+}
